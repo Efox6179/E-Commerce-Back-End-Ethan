@@ -27,7 +27,7 @@ const productData = [
   },
   {
     product_name: 'Cargo Shorts',
-    price: 29.99,
+    price: 29.99, 
     stock: 22,
     category_id: 2,
   },
